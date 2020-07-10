@@ -1,0 +1,34 @@
+h1{
+    color: #035aa6;
+    text-align: center;
+}
+body{
+    
+    background-image: url("assets/texture.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+    border-top: 4px dotted  darkblue;
+}
+.member{
+    margin: 0 0 0 0;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.main-image{
+  border: 1px solid whitesmoke;
+  border-radius: 100%;  
+}
+
+#image-aditya{
+    border: 1px solid whitesmoke;
+    border-radius: 100%;
+    margin-right: 10px;
+    
+}
